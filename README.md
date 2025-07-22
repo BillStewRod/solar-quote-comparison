@@ -63,12 +63,11 @@ A clean, modern website built with HTML5, CSS3, and JavaScript to showcase a pro
 │       └── deploy.yml   # GitHub Actions deployment
 ├── data/
 │   └── smcc_electric_billing_data.csv  # Usage data (add your file here)
-└── Quotes/              # PDF quotes directory
-    ├── Quote from Lumina Solar _ EnergySage.pdf
-    ├── Quote from Palmetto Solar _ EnergySage.pdf
-    ├── Quote from IntegrateSun, LLC _ EnergySage.pdf
-    ├── Quote from Nova Solar _ EnergySage.pdf
-    └── Quote from Cosmo Solaris _ EnergySage.pdf
+    ├── Quote from Lumina Solar _ EnergySage.pdf # PDF quote
+    ├── Quote from Palmetto Solar _ EnergySage.pdf # PDF quote
+    ├── Quote from IntegrateSun, LLC _ EnergySage.pdf # PDF quote
+    ├── Quote from Nova Solar _ EnergySage.pdf # PDF quote
+    └── Quote from Cosmo Solaris _ EnergySage.pdf # PDF quote
 ```
 
 ## 🚀 GitHub Pages Deployment
