@@ -321,6 +321,12 @@ tr:hover {
     font-weight: 600;
 }
 
+.lowest-row {
+    background-color: rgba(76, 175, 80, 0.15);
+    font-weight: 600;
+    color: #2e7d32;
+}
+
 .winner-row {
     background-color: rgba(124, 179, 66, 0.1);
     font-weight: 600;
